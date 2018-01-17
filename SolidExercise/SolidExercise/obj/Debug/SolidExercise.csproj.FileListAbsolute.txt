@@ -1,0 +1,27 @@
+D:\#samples\SolidExercise\SolidExercise\bin\Debug\SolidExercise.exe.config
+D:\#samples\SolidExercise\SolidExercise\bin\Debug\products.xml
+D:\#samples\SolidExercise\SolidExercise\bin\Debug\SolidExercise.exe
+D:\#samples\SolidExercise\SolidExercise\bin\Debug\SolidExercise.pdb
+D:\#samples\SolidExercise\SolidExercise\obj\Debug\SolidExercise.csprojResolveAssemblyReference.cache
+D:\#samples\SolidExercise\SolidExercise\obj\Debug\SolidExercise.Form1.resources
+D:\#samples\SolidExercise\SolidExercise\obj\Debug\SolidExercise.Properties.Resources.resources
+D:\#samples\SolidExercise\SolidExercise\obj\Debug\SolidExercise.csproj.GenerateResource.Cache
+D:\#samples\SolidExercise\SolidExercise\obj\Debug\SolidExercise.exe
+D:\#samples\SolidExercise\SolidExercise\obj\Debug\SolidExercise.pdb
+d:\Source\PFE Architecture Workshop\3 Foundation Workshop\2 Labs\Module 1 - Software Design\SolidExercise\SolidExercise\bin\Debug\SolidExercise.exe.config
+d:\Source\PFE Architecture Workshop\3 Foundation Workshop\2 Labs\Module 1 - Software Design\SolidExercise\SolidExercise\obj\Debug\SolidExercise.exe
+d:\Source\PFE Architecture Workshop\3 Foundation Workshop\2 Labs\Module 1 - Software Design\SolidExercise\SolidExercise\obj\Debug\SolidExercise.pdb
+d:\Source\main\Labs\Module 1 - Software Design\SolidExercise\SolidExercise\bin\Debug\SolidExercise.exe.config
+d:\Source\main\Labs\Module 1 - Software Design\SolidExercise\SolidExercise\obj\Debug\SolidExercise.exe
+d:\Source\main\Labs\Module 1 - Software Design\SolidExercise\SolidExercise\obj\Debug\SolidExercise.pdb
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 1 - Software Design\SolidExercise\SolidExercise\bin\Debug\products.xml
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 1 - Software Design\SolidExercise\SolidExercise\bin\Debug\SolidExercise.exe.config
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 1 - Software Design\SolidExercise\SolidExercise\bin\Debug\SolidExercise.exe
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 1 - Software Design\SolidExercise\SolidExercise\bin\Debug\SolidExercise.pdb
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 1 - Software Design\SolidExercise\SolidExercise\obj\Debug\SolidExercise.csprojResolveAssemblyReference.cache
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 1 - Software Design\SolidExercise\SolidExercise\obj\Debug\SolidExercise.Form1.resources
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 1 - Software Design\SolidExercise\SolidExercise\obj\Debug\SolidExercise.Properties.Resources.resources
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 1 - Software Design\SolidExercise\SolidExercise\obj\Debug\SolidExercise.csproj.GenerateResource.Cache
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 1 - Software Design\SolidExercise\SolidExercise\obj\Debug\SolidExercise.csproj.CoreCompileInputs.cache
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 1 - Software Design\SolidExercise\SolidExercise\obj\Debug\SolidExercise.exe
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 1 - Software Design\SolidExercise\SolidExercise\obj\Debug\SolidExercise.pdb
